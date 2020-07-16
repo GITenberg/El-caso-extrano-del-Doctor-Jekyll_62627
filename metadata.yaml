@@ -1,10 +1,13 @@
 _repo: El-caso-extrano-del-Doctor-Jekyll_62627
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Soulére, Emilio
     gutenberg_agent_id: '52040'
     url: http://www.gutenberg.org/2009/agents/52040
+covers:
+- cover_type: archival
+  image_path: 62627-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62627#El-caso-extrano-del-Doctor-Jekyll
 gutenberg_issued: '2020-07-12'
 gutenberg_type: Text
 identifiers:
